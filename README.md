@@ -1,7 +1,9 @@
 # Customer Feedback Sentiment Analysis
 
 This project performs sentiment analysis on customer reviews to generate actionable insights for a car rental agency, enabling data-driven decisions on inventory management.
-![image](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/assets/70189275/cb8a3095-2a9b-46bc-b213-d719b4148db8)
+
+![image](https://github.com/user-attachments/assets/e858c850-f493-4f49-b8f1-c65019edd437)
+
 
 **Key Objectives:**
 - Extract and preprocess customer review text
@@ -98,7 +100,9 @@ print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
 ```
 
 
-Find the step-by-step process done in my Dataiku DSS Environment,below : [SENTIMENT ANALYSIS PROJECT.pdf](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/blob/main/SENTIMENT%20ANALYSIS%20PROJECT.pdf)
+Find the step-by-step process done in my Dataiku DSS Environment,below : 
+![image](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/assets/70189275/cb8a3095-2a9b-46bc-b213-d719b4148db8)
+[SENTIMENT ANALYSIS PROJECT.pdf](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/blob/main/SENTIMENT%20ANALYSIS%20PROJECT.pdf)
 Initial results:
 
 * **Confusion Matrix:** Reveals distribution of correct and incorrect predictions by class.
