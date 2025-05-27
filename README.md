@@ -101,7 +101,8 @@ print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
 
 
 Find the step-by-step process done in my Dataiku DSS Environment,below : 
-![image](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/assets/70189275/cb8a3095-2a9b-46bc-b213-d719b4148db8)
+![Betterimage ai_1748318139612](https://github.com/user-attachments/assets/dd538cde-23c3-4f17-ae0f-641b81aa6d0c)
+
 [SENTIMENT ANALYSIS PROJECT.pdf](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/blob/main/SENTIMENT%20ANALYSIS%20PROJECT.pdf)
 Initial results:
 
