@@ -121,6 +121,7 @@ Initial results:
 ## License
 
 This project is licensed under the MIT License.  
-See the [] file for full license text.
+See the [LICENSE](./LICENSE) file for the full license text.
+
 ```
 
