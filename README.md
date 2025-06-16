@@ -118,5 +118,9 @@ Initial results:
 * Experiment with advanced models (e.g., BERT embeddings)
 * Build a web interface for real-time review analysis
 
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for full license text.
 ```
 
