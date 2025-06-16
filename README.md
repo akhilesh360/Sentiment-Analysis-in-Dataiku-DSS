@@ -13,6 +13,8 @@ Dataiku DSS Documentation: [SENTIMENT ANALYSIS PROJECT.pdf](https://github.com/a
 - Deploy the model to predict sentiment on new feedback
 
 ---
+Find the step-by-step process done in my Dataiku DSS Environment,below : 
+![Betterimage ai_1748318139612](https://github.com/user-attachments/assets/dd538cde-23c3-4f17-ae0f-641b81aa6d0c)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -102,8 +104,7 @@ print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
 ```
 
 
-Find the step-by-step process done in my Dataiku DSS Environment,below : 
-![Betterimage ai_1748318139612](https://github.com/user-attachments/assets/dd538cde-23c3-4f17-ae0f-641b81aa6d0c)
+
 
 
 Initial results:
@@ -119,6 +120,6 @@ Initial results:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 ```
 
