@@ -2,7 +2,7 @@
 
 This project performs sentiment analysis on customer reviews to generate actionable insights for a car rental agency, enabling data-driven decisions on inventory management.
 
-[SENTIMENT ANALYSIS PROJECT.pdf](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/blob/main/SENTIMENT%20ANALYSIS%20PROJECT.pdf)
+Dataiku DSS Documentation: [SENTIMENT ANALYSIS PROJECT.pdf](https://github.com/akhilesh360/Sentiment-Analysis-in-Dataiku-DSS/blob/main/SENTIMENT%20ANALYSIS%20PROJECT.pdf)
 
 ![image](https://github.com/user-attachments/assets/e858c850-f493-4f49-b8f1-c65019edd437)
 
